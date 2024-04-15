@@ -1,3 +1,3 @@
 FROM ubuntu
-WORKDIR /app
+#WORKDIR /app
 CMD ["hello"]
